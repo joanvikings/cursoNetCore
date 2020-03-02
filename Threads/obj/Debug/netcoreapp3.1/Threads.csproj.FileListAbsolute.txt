@@ -1,0 +1,11 @@
+C:\Users\jtabu\source\repos\ProyectoORM\Threads\bin\Debug\netcoreapp3.1\Threads.exe
+C:\Users\jtabu\source\repos\ProyectoORM\Threads\bin\Debug\netcoreapp3.1\Threads.deps.json
+C:\Users\jtabu\source\repos\ProyectoORM\Threads\bin\Debug\netcoreapp3.1\Threads.runtimeconfig.json
+C:\Users\jtabu\source\repos\ProyectoORM\Threads\bin\Debug\netcoreapp3.1\Threads.runtimeconfig.dev.json
+C:\Users\jtabu\source\repos\ProyectoORM\Threads\bin\Debug\netcoreapp3.1\Threads.dll
+C:\Users\jtabu\source\repos\ProyectoORM\Threads\bin\Debug\netcoreapp3.1\Threads.pdb
+C:\Users\jtabu\source\repos\ProyectoORM\Threads\obj\Debug\netcoreapp3.1\Threads.csprojAssemblyReference.cache
+C:\Users\jtabu\source\repos\ProyectoORM\Threads\obj\Debug\netcoreapp3.1\Threads.AssemblyInfoInputs.cache
+C:\Users\jtabu\source\repos\ProyectoORM\Threads\obj\Debug\netcoreapp3.1\Threads.AssemblyInfo.cs
+C:\Users\jtabu\source\repos\ProyectoORM\Threads\obj\Debug\netcoreapp3.1\Threads.dll
+C:\Users\jtabu\source\repos\ProyectoORM\Threads\obj\Debug\netcoreapp3.1\Threads.pdb
